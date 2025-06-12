@@ -39,6 +39,7 @@ import zipfile
 import shutil
 import ffmpeg
 
+
 # Initialize the bot
 bot = Client(
     "bot",
